@@ -18,7 +18,7 @@ JobVerse is a job tracking and management application that allows users to view 
 -Filtering and searching job listings.
 
 **Future Enhancements**
--Implement authentication using Firebase/Auth0.
+-Implement authentication.
 -Add a backend using Node.js and MongoDB or Firebase.
 -Develop an admin dashboard for job postings.
 -Enhance UI/UX with improved styling and animations.
@@ -32,17 +32,17 @@ If deployed, the live version of the project can be accessed at: [Deployment Lin
 **Clone the repository:**
 bash
 Copy
-Edit `code`->
+Edit `cmd`->
 git clone [repository-url]
 **Navigate to the project directory:**
 bash
 Copy
-Edit `code`->
+Edit `cmd`->
 cd jobverse
 **Install dependencies:**
 bash
 Copy
-Edit `code`->
+Edit `cmd`->
 npm install
 **Run the development server:**
 bash
@@ -50,6 +50,7 @@ Copy
 Edit `cmd`->
 npm run dev
 Open the application in a browser at http://localhost:3000.
+
 **Technology Stack**
 **Frontend**: Next.js, React, Tailwind CSS
 **State Management**: Zustand (for dark mode toggle)
