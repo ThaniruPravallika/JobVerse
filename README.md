@@ -6,6 +6,7 @@ JobVerse
 
 **Working Features**
 -Job listings are displayed correctly.
+-Recruiters can post job opportunities with their company name.
 -Navigation between Home and Dashboard pages is functional.
 -Dark mode toggle is implemented.
 -Responsive design using Tailwind CSS.
