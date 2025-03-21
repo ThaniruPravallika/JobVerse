@@ -1,3 +1,57 @@
+JobVerse
+Project Overview
+JobVerse is a job tracking and management application that allows users to view job listings and toggle between light and dark themes.
+
+Functionality
+Working Features
+Job listings are displayed correctly.
+Navigation between Home and Dashboard pages is functional.
+Dark mode toggle is implemented.
+Responsive design using Tailwind CSS.
+Missing Features
+User authentication (login/signup).
+Backend integration for storing job applications and user profiles.
+Job posting functionality for recruiters.
+Filtering and searching job listings.
+Future Enhancements
+Implement authentication using Firebase/Auth0.
+Add a backend using Node.js and MongoDB or Firebase.
+Develop an admin dashboard for job postings.
+Enhance UI/UX with improved styling and animations.
+Deploy the project using Vercel or Netlify.
+Deployment
+If deployed, the live version of the project can be accessed at: [Deployment Link]
+
+Installation and Setup
+Clone the repository:
+bash
+Copy
+Edit
+git clone [repository-url]
+Navigate to the project directory:
+bash
+Copy
+Edit
+cd jobverse
+Install dependencies:
+bash
+Copy
+Edit
+npm install
+Run the development server:
+bash
+Copy
+Edit
+npm run dev
+Open the application in a browser at http://localhost:3000.
+Technology Stack
+Frontend: Next.js, React, Tailwind CSS
+State Management: Zustand (for dark mode toggle)
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
