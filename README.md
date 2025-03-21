@@ -1,53 +1,53 @@
-#JobVerse
+JobVerse
 ---------
-##Project Overview:
+**Project Overview**:
 JobVerse is a job tracking and management application that allows users to view job listings and toggle between light and dark themes.
 
-#Functionality:
+**Functionality**:
 
-##Working Features
+**Working Features**
 -Job listings are displayed correctly.
 -Recruiters can post job opportunities with their company name.
 -Navigation between Home and Dashboard pages is functional.
 -Dark mode toggle is implemented.
 -Responsive design using Tailwind CSS.
 
-##Missing Features
+**Missing Features**
 -User authentication (login/signup).
 -Backend integration for storing job applications and user profiles.
 -Filtering and searching job listings.
 
-##Future Enhancements
+**Future Enhancements**
 -Implement authentication using Firebase/Auth0.
 -Add a backend using Node.js and MongoDB or Firebase.
 -Develop an admin dashboard for job postings.
 -Enhance UI/UX with improved styling and animations.
 -Deploy the project using Vercel or Netlify.
 
-##Deployment
+**Deployment**
 If deployed, the live version of the project can be accessed at: [Deployment Link]
 
-#Installation and Setup
+**Installation and Setup**
 
-##Clone the repository:
+**Clone the repository:**
 bash
 Copy
 Edit `code`->
 git clone [repository-url]
-##Navigate to the project directory:
+**Navigate to the project directory:**
 bash
 Copy
 Edit `code`->
 cd jobverse
-##Install dependencies:
+**Install dependencies:**
 bash
 Copy
 Edit `code`->
 npm install
-##Run the development server:
+**Run the development server:**
 bash
 Copy
-Edit `code`->
+Edit `cmd`->
 npm run dev
 Open the application in a browser at http://localhost:3000.
 **Technology Stack**
