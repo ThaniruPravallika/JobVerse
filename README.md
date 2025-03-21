@@ -1,9 +1,11 @@
 JobVerse
----------
+================
 **Project Overview**:
+--------------------
 JobVerse is a job tracking and management application that allows users to view job listings and toggle between light and dark themes.
 
 **Functionality**:
+----------------------
 
 **Working Features**
 -Job listings are displayed correctly.
@@ -28,6 +30,7 @@ JobVerse is a job tracking and management application that allows users to view 
 If deployed, the live version of the project can be accessed at: [Deployment Link]
 
 **Installation and Setup**
+--------------------------
 
 **Clone the repository:**
 bash
@@ -52,6 +55,7 @@ npm run dev
 Open the application in a browser at http://localhost:3000.
 
 **Technology Stack**
+----------------------
 **Frontend**: Next.js, React, Tailwind CSS
 **State Management**: Zustand (for dark mode toggle)
 
